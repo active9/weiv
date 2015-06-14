@@ -1,0 +1,19 @@
+{
+  "name": "WEIV",
+  "version": "0.0.1",
+  "description": "WEIV - Web Engine Intravenous Viewer",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "view"
+  ],
+  "author": "Active 9 LLC",
+  "license": "MIT",
+  "dependencies": {},
+  "directories": {
+    "example": "examples"
+  }
+}
