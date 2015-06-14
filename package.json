@@ -1,9 +1,8 @@
 {
-  "name": "WEIV",
+  "name": "weiv",
   "version": "0.0.1",
-  "description": "WEIV - Web Engine Intravenous Viewer",
+  "description": "Web Engine Intravenous Viewer",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "test": ""
   },
